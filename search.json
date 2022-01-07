@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-01-07T15:05:54-05:00"
+      "last_modified": "2022-01-07T15:51:06-05:00"
     },
     {
       "path": "index.html",
-      "title": "My Website",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Oxygen Dynamics of Corals",
+      "description": "Welcome to the lab's coral project website. Here you will find all the experimental data, code, protocols and methods we have developed to understand the physiological limits of Caribbean corals to ocean deoxygenation and warming. \n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-01-07T15:05:55-05:00"
+      "contents": "\n\nContents\nProject Summary\nTeam\n\nProject Summary\nThere is a growing realization that ocean deoxygenation is a major global problem that is hurting marine life and that this deoxygenation is directly related to rising seawater temperature. It is also well known that coral reefs are dying at a rapid pace. But we have no direct measure of what coral limits are to low oxgyen under warming.\nWe are measuring the oxygen limits (Pcrit) of seven different coral species between 25 and 35C. We will use our results to determine if corals can actively regulate their oxygen consumption, and if so, to what point. We also will compare their oxygen limits to environmental oxygen levels measured from the reef habitats they live. This will indicate the role of environmental oxygen in coral reef survival.\nOur corals and physical data are taken from Punta Caracol in Bahia Almirante:\n\n\n\nFigure 1: Punta Caracol, the project study site is located in Bahia Almirante, Bocas del Toro, Panama. Photo taken by Carolina Cesar\n\n\n\nTeam\nCarolina Cesar\nEsme Kline\nNoelle Lucey https://noellelucey.github.io/research/\n\n\n\n",
+      "last_modified": "2022-01-07T15:51:07-05:00"
     }
   ],
   "collections": []
