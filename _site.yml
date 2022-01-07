@@ -1,0 +1,28 @@
+name: "coraldummy"
+title: "My Website"
+base_url: https://noellelucey.github.io/
+repository_url: https://github.com/noellelucey/coral/
+description: |
+  My Website
+output_dir: "_site"
+exclude: ["_site", "public", "README.html", "README.md"]
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - text: "More information"
+      menu:
+        - text: "Coral Project"
+          href: intro.html
+        - text: "Photos"
+          href: cv.html
+        - text: "Protocols"
+          href: pubs.html
+        - text: "Pcrit methods"
+          href: news.html
+output:
+    distill::distill_article:
+      css: assets/styles.css
+      toc: true
+      toc_depth: 3
